@@ -25,6 +25,9 @@
     "url": "https://github.com/ct0r/node-micro-joi/issues"
   },
   "homepage": "https://github.com/ct0r/node-micro-joi#readme",
+  "peerDependencies": {
+    "micro": "9.x"
+  },
   "devDependencies": {
     "ava": "^3.8.2",
     "eslint": "^7.0.0",
