@@ -1,6 +1,6 @@
 {
   "name": "@ct0r/micro-joi",
-  "version": "0.1.0",
+  "version": "0.1.1",
   "description": "A minimalistic joi validation for micro",
   "main": "index.js",
   "scripts": {
