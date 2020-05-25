@@ -1,3 +1,7 @@
+const querystring = require("querystring");
+const url = require("url");
+const { json } = require("micro");
+
 async function validate(req, schema, options) {
   // TODO: Keep results in weakmap with req as key
   const input = {};
